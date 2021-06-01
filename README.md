@@ -1,6 +1,6 @@
 # Plant Disease Classification and Detection
 
-### THE ARTICLE FOR THE PROJECT CAN BE FOUND [Here]()
+### THE ARTICLE FOR THE PROJECT CAN BE FOUND [Here](https://rabintiwari45.github.io/portfolio_website3/post/project-2/)
 
 ## Table of Content
 * Demo
@@ -92,7 +92,7 @@ python app.py
 [How to Train a Progressive Growing GAN in Keras](https://machinelearningmastery.com/how-to-train-a-progressive-growing-gan-in-keras-for-synthesizing-faces/)
 
 
-### TO KNOW MORE ABOUT THE PROJECT YOU CAN CHECK THE ARTICLE [HERE]()
+### TO KNOW MORE ABOUT THE PROJECT YOU CAN CHECK THE ARTICLE [HERE](https://rabintiwari45.github.io/portfolio_website3/post/project-2/)
 
 
 
