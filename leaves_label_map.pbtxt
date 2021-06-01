@@ -1,0 +1,150 @@
+item {
+    name: "Apple Scab Leaf",
+    id: 1,
+    display_name: "Apple Scab Leaf"
+}
+item {
+    name: "Apple leaf",
+    id: 2,
+    display_name: "Apple leaf"
+}
+item {
+    name: "Apple rust leaf",
+    id: 3,
+    display_name: "Apple rust leaf"
+}
+item {
+    name: "Bell_pepper leaf",
+    id: 4,
+    display_name: "Bell_pepper leaf"
+}
+item {
+    name: "Bell_pepper leaf spot",
+    id: 5,
+    display_name: "Bell_pepper leaf spot"
+}
+item {
+    name: "Blueberry leaf",
+    id: 6,
+    display_name: "Blueberry leaf"
+}
+item {
+    name: "Cherry leaf",
+    id: 7,
+    display_name: "Cherry leaf"
+}
+item {
+    name: "Corn Gray leaf spot",
+    id: 8,
+    display_name: "Corn Gray leaf spot"
+}
+item {
+    name: "Corn leaf blight",
+    id: 9,
+    display_name: "Corn leaf blight"
+}
+item {
+    name: "Corn rust leaf",
+    id: 10,
+    display_name: "Corn rust leaf"
+}
+item {
+    name: "Peach leaf",
+    id: 11,
+    display_name: "Peach leaf"
+}
+item {
+    name: "Potato leaf",
+    id: 12,
+    display_name: "Potato leaf"
+}
+item {
+    name: "Potato leaf early blight",
+    id: 13,
+    display_name: "Potato leaf early blight"
+}
+item {
+    name: "Potato leaf late blight",
+    id: 14,
+    display_name: "Potato leaf late blight"
+}
+item {
+    name: "Raspberry leaf",
+    id: 15,
+    display_name: "Raspberry leaf"
+}
+item {
+    name: "Soyabean leaf",
+    id: 16,
+    display_name: "Soyabean leaf"
+}
+item {
+    name: "Soybean leaf",
+    id: 17,
+    display_name: "Soybean leaf"
+}
+item {
+    name: "Squash Powdery mildew leaf",
+    id: 18,
+    display_name: "Squash Powdery mildew leaf"
+}
+item {
+    name: "Strawberry leaf",
+    id: 19,
+    display_name: "Strawberry leaf"
+}
+item {
+    name: "Tomato Early blight leaf",
+    id: 20,
+    display_name: "Tomato Early blight leaf"
+}
+item {
+    name: "Tomato Septoria leaf spot",
+    id: 21,
+    display_name: "Tomato Septoria leaf spot"
+}
+item {
+    name: "Tomato leaf",
+    id: 22,
+    display_name: "Tomato leaf"
+}
+item {
+    name: "Tomato leaf bacterial spot",
+    id: 23,
+    display_name: "Tomato leaf bacterial spot"
+}
+item {
+    name: "Tomato leaf late blight",
+    id: 24,
+    display_name: "Tomato leaf late blight"
+}
+item {
+    name: "Tomato leaf mosaic virus",
+    id: 25,
+    display_name: "Tomato leaf mosaic virus"
+}
+item {
+    name: "Tomato leaf yellow virus",
+    id: 26,
+    display_name: "Tomato leaf yellow virus"
+}
+item {
+    name: "Tomato mold leaf",
+    id: 27,
+    display_name: "Tomato mold leaf"
+}
+item {
+    name: "Tomato two spotted spider mites leaf",
+    id: 28,
+    display_name: "Tomato two spotted spider mites leaf"
+}
+item {
+    name: "grape leaf",
+    id: 29,
+    display_name: "grape leaf"
+}
+item {
+    name: "grape leaf black rot",
+    id: 30,
+    display_name: "grape leaf black rot"
+}

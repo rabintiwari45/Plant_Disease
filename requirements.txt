@@ -1,0 +1,9 @@
+pandas>=0.23.0
+numpy>=1.19.1
+Flask==0.10.1
+gunicorn==20.1.0
+itsdangerous==0.24
+Jinja2==2.10
+Werkzeug==0.14.1
+MarkupSafe==0.23
+tensorflow-cpu>=2.3.1
