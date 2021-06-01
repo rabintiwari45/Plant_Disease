@@ -44,15 +44,13 @@
         <input class = "btn-info" type = file name= image>
         <br>
 
-        <input class="btn-info" type = submit value = ClassifyImage>
+        <input class="btn-info" type = submit value = ClassifyandDetect>
+        
         <br>
-        <input class="btn-info" type = submit value = DetectImage>
-        <br>
-        <br>
-        <!--{% if image_loc %}
+        {% if image_loc %}
         <img class = "mb-4" src= "static/upload/{{image_loc}}" alt = " " width = "256" height = "256"> -->
         <h3>Predictions : {{prediction}}</h3>
-        <!--{% endif %} -->
+        {% endif %} 
     </form>
 </body>
 
