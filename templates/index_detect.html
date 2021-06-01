@@ -44,16 +44,15 @@
         <input class = "btn-info" type = file name= image>
         <br>
 
-        <input class="btn-info" type = submit value = ClassifyImage>
-        <br>
-        <input class="btn-info" type = submit value = DetectImage>
-        <br>
+        <input class="btn-info" type = submit value = ClassifyandDetect>
+        
         <br>
         <h3>The image after detection</h3>
         {% if image_loc %}
         <img class = "mb-4" src= "static/upload/{{image_loc}}" alt = " " width = "512" height = "512">
         <h3>The image classification model predicted : {{prediction}}</h3>
         {% endif %}
+	<h3>The treatment for the plant disease are : {{treatment}}</h3>
     </form>
 </body>
 
