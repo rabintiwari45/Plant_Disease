@@ -1,25 +1,20 @@
-from flask import Flask,render_template
-from flask import request
 import os
-import numpy as np
-
 import sys
-import tensorflow as tf
-
-
-from tensorflow.python.keras.applications.imagenet_utils import preprocess_input,decode_predictions
-from tensorflow.python.keras.models import load_model
-from tensorflow.python.keras.preprocessing import image
-
-from object_detection.utils import label_map_util
-from object_detection.utils import visualization_utils as viz_utils
-
-
-from PIL import Image
-import matplotlib.pyplot as plt
 import warnings
 import pathlib
-#import cv2
+import numpy as np
+import matplotlib.pyplot as plt
+import tensorflow as tf
+from PIL import Image
+from tensorflow.python.keras.models import load_model
+from tensorflow.python.keras.preprocessing import image
+from tensorflow.python.keras.applications.imagenet_utils import preprocess_input,decode_predictions
+from object_detection.utils import label_map_util
+from object_detection.utils import visualization_utils as viz_utils
+from flask import request
+from flask import Flask,render_template
+
+
 
 app = Flask(__name__)
 
