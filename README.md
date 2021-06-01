@@ -11,9 +11,9 @@
 * References
 
 ## Demo
-![image](https://github.com/rabintiwari45/Plant-Disease/blob/main/images/demo.png)
-![image1](https://github.com/rabintiwari45/Plant-Disease/blob/main/images/demo1.png)
-![image2](https://github.com/rabintiwari45/Plant-Disease/blob/main/images/demo2.png)
+![image](https://github.com/rabintiwari45/Plant-Disease/blob/master/images/demo.png)
+![image1](https://github.com/rabintiwari45/Plant-Disease/blob/master/images/demo1.png)
+![image2](https://github.com/rabintiwari45/Plant-Disease/blob/master/images/demo2.png)
 
 ## Data Source
 
